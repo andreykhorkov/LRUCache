@@ -1,4 +1,4 @@
-# LRUCache
+# C# LRUCache
 Least recently used cache. 
 
 Constant time put, get and delete.  
